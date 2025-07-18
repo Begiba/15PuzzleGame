@@ -11,7 +11,6 @@ This project features a playable 4x4 puzzle, move counter, timer, and a hint fun
 - **Interactive GUI**: Click tiles to slide them into the empty space.
 - **Randomized, always-solvable puzzles**.
 - **Move counter** and **timer**.
-- **Hint button** (A* search finds the next best move).
 - **Automatic shuffle after solving**.
 
 ## 🧰 Requirements
